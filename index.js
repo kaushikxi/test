@@ -1,3 +1,2 @@
-console.log('hey')
-let a = 34;
-let b = 45;
+console.log('hey');
+let u = 34;
